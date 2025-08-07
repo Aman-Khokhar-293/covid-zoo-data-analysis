@@ -28,13 +28,12 @@ This repository contains a Jupyter Notebook that demonstrates data analysis, mer
   - Active COVID-19 cases by state
   - Total deaths per state
 
-
-```bash
-pip install pandas numpy matplotlib seaborn openpyxl
-
 ----
 
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
+
+```bash
+pip install pandas numpy matplotlib seaborn openpyxl
 
