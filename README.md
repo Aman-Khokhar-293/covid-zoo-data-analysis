@@ -5,7 +5,9 @@ This repository contains a Jupyter Notebook that demonstrates data analysis, mer
 ## 📁 Datasets Used
 
 - **Zoo dataset** (CSV): Includes animal data for merging practice
+- [zoo.csv](https://github.com/Aman-Khokhar-293/covid-zoo-data-analysis/blob/main/zoo%20(1).csv)
 - **COVID-19 India dataset** (Excel): State-wise COVID statistics
+- [Covid Case in india.xlsx](https://github.com/Aman-Khokhar-293/covid-zoo-data-analysis/blob/main/Covid%20cases%20in%20India%20(1).xlsx)
 
 ## ✅ Key Operations Performed
 
